@@ -99,3 +99,21 @@ public:
 	}
 };
 
+int main() {
+	Queues q;
+	char ch;
+
+	while (true) {
+		try{
+			cout << "Menu" << endl;
+			cout << "1. Implemen insert operation" << endl;
+			cout << "2. Implment deleted operation" << endl;
+			cout << "3. Display values" << endl;
+			cout << "4. Exit" << endl;
+			cout << "Enter your choice (1-4)" << endl;
+			cin >> ch;
+			cout << endl;
+
+
+			
+}
